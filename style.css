@@ -1,0 +1,10 @@
+*{
+text-align:center;
+page-border:soild
+border-size:40
+}
+
+.tab {
+    display: flex;
+    justify-content: center;
+}
